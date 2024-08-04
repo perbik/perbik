@@ -15,4 +15,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=perbik&show_icons=true&locale=en&layout=compact" alt="perbik" /></p>
 </div>
 
-<hr/>
+<hr>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/perbik/perbik/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr>
