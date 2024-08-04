@@ -21,5 +21,3 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/perbik/perbik/output/github-contribution-grid-snake.gif?color_snake=#fcca05&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9" />
   <br/><br/><br/>
 </div>
-
-<hr>
