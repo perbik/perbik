@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Front-end Web Development and UI/UX Design** 
 
-- 📫 How to reach me **fervicmardlagman@gmail.com**
+- 📫 Email: **fervicmardlagman@gmail.com**
   
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=perbik&show_icons=true&locale=en&layout=compact" alt="perbik" /></p>
