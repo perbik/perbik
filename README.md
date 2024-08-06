@@ -7,7 +7,7 @@
 <h3 align="center">3rd year Computer Science student from Polytechnic University of the Philippines - Manila</h3>
 <hr>
 
-- 🌱 I’m currently learning **Front-end Web Development and UI/UX Design** 
+- 🌱 In progress...
 
 - 📫 Email: **fervicmardlagman@gmail.com**
   
