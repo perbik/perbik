@@ -4,10 +4,8 @@
   
 </div>
 
-<h3 align="center">4th year Computer Science student from Polytechnic University of the Philippines - Manila</h3>
+<h3 align="center">Computer Science graduate from Polytechnic University of the Philippines - Manila</h3>
 <hr>
-
-- 🌱 In progress...
 
 - 📫 Email: **fervicmardlagman@gmail.com**
   
